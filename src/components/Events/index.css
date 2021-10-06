@@ -1,0 +1,22 @@
+.bg-container {
+  background-image: linear-gradient(to right, #64748b, #323f4b);
+  min-height: 100vh;
+  width: 100%;
+  padding: 30px;
+  display: flex;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  margin: 10px;
+}
+
+.unOrder {
+  list-style-type: none;
+  font-family: roboto;
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 70%;
+}

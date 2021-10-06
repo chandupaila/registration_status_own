@@ -1,0 +1,24 @@
+.image {
+  width: 300px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: x-large;
+}
+
+.location {
+  color: #f8fafc;
+  font-size: large;
+}
+
+.list {
+  margin: 10px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
